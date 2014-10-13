@@ -9,6 +9,7 @@
 
     <properties>
         <restLibrary.version>1.0-SNAPSHOT</restLibrary.version>
+
         <commonsIo.version>2.4</commonsIo.version>
         <cxf.version>2.7.12</cxf.version>
         <gson.version>2.3</gson.version>
